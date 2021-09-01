@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nishil Kulkarni
-- 👀 I’m interested in ML, Data Science , Data Visualization, Web Development
 - 🌱 I’m currently learning basics of Python
 - 💞️ I’m looking to collaborate on any intermediate level Java/Python project
 - 📫 How to reach me- mail @ nishil140603@outlook.com
