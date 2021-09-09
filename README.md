@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishil Kulkarni
-- 🌱 I’m currently learning basics of Python
+- 🌱 I’m currently learning web development,python programming.
 - 💞️ I’m looking to collaborate on any intermediate level Java/Python project
 - 📫 How to reach me- mail @ nishil140603@outlook.com
 
