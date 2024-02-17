@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishil Kulkarni
-- 📫 How to reach me- mail @ nishil140603@outlook.com
+- 📫 How to reach me- mail @ nishil140603@gmail.com
 
 
 <!---
